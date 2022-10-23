@@ -1,21 +1,22 @@
-#The Name of My App
+#muze
 
-a description of my project
+muze is a web application that provides users with curated music playlists using the Openwhyd API.
 
-- tech 1
-- tech 2
-- tech 3
-- tech 4
+- HTML 5
+- CSS 3
+- JavaScript
+- jQuery Modal
+- Openwhyd API
 
 ###Wireframes
 
-![S0me text](https://media.glamour.com/photos/5fbb16bf5d9d61b31c7b9881/6:7/w_1998,h_2331,c_limit/GettyImages-1270370151.jpg)
+![I am unsure on how this will look, so I don't know what to put here.]()
 
-| Day | Goal |
+| Date | Goal |
 |-----|-----|
-|1|Choose API|
-|2|Render data to screen|
-|3|Create form|
+|Oct. 23|Choose API|
+|Oct. 24|-|
+|Oct. 25|-|
 
 ###Link to Project
-[My Project Live Page](https://traumazine.megantheestallion.com/)
+[My Project Live Page](https://turmeric-project-one.vercel.app/)
