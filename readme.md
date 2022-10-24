@@ -10,13 +10,17 @@ muze is a web application that provides users with curated music playlists using
 
 ###Wireframes
 
-![I am unsure on how this will look, so I don't know what to put here.]()
+![Mobile and desktop wireframe for muze music streaming app.](https://i.imgur.com/NSxkcLI.jpg)
 
 | Date | Goal |
 |-----|-----|
 |Oct. 23|Choose API|
-|Oct. 24|-|
-|Oct. 25|-|
+|Oct. 24|Create wireframe and render data to screen|
+|Oct. 25|Create form for music search|
+|Oct. 26|Debugging and styling|
+|Oct. 27|Website styling|
+|Oct. 28|Debugging and styling|
+|Oct. 29|Presentation day!
 
 ###Link to Project
 [My Project Live Page](https://turmeric-project-one.vercel.app/)
