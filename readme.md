@@ -10,7 +10,7 @@ Cell Mania is a trivia game based on the structure and function of cells. It was
 
 ###Wireframes
 
-![Mobile and desktop wireframe for muze music streaming app.](https://i.imgur.com/NSxkcLI.jpg)
+![Mobile and desktop wireframe for science trivia app.]()
 
 | Date | Goal |
 |-----|-----|
@@ -19,8 +19,8 @@ Cell Mania is a trivia game based on the structure and function of cells. It was
 |Oct. 25|Create form for music search|
 |Oct. 26|Debugging and styling|
 |Oct. 27|Website styling|
-|Oct. 28|Debugging and styling|
-|Oct. 29|Presentation day!
+|Oct. 28|Scrap inital idea; new project idea with all aforementioned steps|
+|Oct. 29|Debugging and website styling. Presentation day!|
 
 ###Link to Project
 [My Project Live Page](https://turmeric-project-one.vercel.app/)

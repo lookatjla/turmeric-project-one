@@ -5,7 +5,8 @@
 const state = {
     Player1: 0,
     Player2: 0,
-    currentQuestion: {}
+    currentQuestion: {},
+    which: true
 }
 
 let questions = []
@@ -45,7 +46,14 @@ $.ajax(URL)
 const chooseAnswer = (event, question) => {
     console.log(event)
     if (event.target.innerText === question.answer) {
-        console.log("correct")
+        if (state.which) {
+            state.player1++
+            state.which = !state.which
+        } else {
+            state.player2++
+            state.which = !state.which
+        }
+        setBoard(question)
     } else {
         setBoard(questions)
     }
