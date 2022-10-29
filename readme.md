@@ -10,7 +10,7 @@ Cell Mania is a trivia game based on the structure and function of cells. It was
 
 ###Wireframes
 
-![Mobile and desktop wireframe for science trivia app.]()
+![Mobile and desktop wireframe for science trivia app.](https://i.imgur.com/nBRbrjK.jpg)
 
 | Date | Goal |
 |-----|-----|
