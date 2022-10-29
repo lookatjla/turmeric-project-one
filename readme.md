@@ -1,12 +1,12 @@
-#muze
+#Cell Mania
 
-muze is a web application that provides users with curated music playlists using the Openwhyd API.
+Cell Mania is a trivia game based on the structure and function of cells. It was created to encourage kids in grades 5-8 to learn science skills through gamification.
 
 - HTML 5
 - CSS 3
 - JavaScript
-- jQuery Modal
-- Openwhyd API
+- jQuery
+- Contentful
 
 ###Wireframes
 
