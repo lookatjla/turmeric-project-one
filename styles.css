@@ -74,17 +74,16 @@ SCOREBOARD */
     display: flex;
     width: 70%;
     justify-content: center;
-    margin: 1px auto;
-    border: 10px solid fuchsia;
+    margin: 20px auto;
+    border: 15px solid fuchsia;
 }
 
 #Player1,
 #Player2 {
     width: 50%;
     background-color: white;
-    margin: 10px auto;
+    margin: 30px auto;
     text-align: center;
-    padding: 10px;
-    border: 10px solid lime;
+    border: 15px solid lime;
 
 }

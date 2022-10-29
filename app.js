@@ -47,10 +47,10 @@ const chooseAnswer = (event, question) => {
     console.log(event)
     if (event.target.innerText === question.answer) {
         if (state.which) {
-            state.player1++
+            state.Player1++
             state.which = !state.which
         } else {
-            state.player2++
+            state.Player2++
             state.which = !state.which
         }
         setBoard(question)
@@ -58,7 +58,6 @@ const chooseAnswer = (event, question) => {
         setBoard(questions)
     }
 }
-
 const setBoard = (q) => {
     // getting a random question
     const randomIndex = Math.floor(Math.random() * q.length)
@@ -72,8 +71,8 @@ const setBoard = (q) => {
     $d.text(randomQuestion.d)
 
     // update player scores
-    $p1score.text(state.player1)
-    $p2score.text(state.player2)
+    $p1score.text(state.Player1)
+    $p2score.text(state.Player2)
 
     $("li").on("click", (e) => chooseAnswer(e, randomQuestion.question)
     )
